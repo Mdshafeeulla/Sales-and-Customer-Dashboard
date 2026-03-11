@@ -24,8 +24,6 @@ pip install -r requirements.txt
 python dashboard.py
 ```
 
-## 💡 Key Insights
-> *(Add 2-3 key findings from your analysis here)*
 
 ---
 ⭐ Star this repo if you found it useful!
